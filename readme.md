@@ -1,5 +1,5 @@
 # qb-namechange
----
+
 Simple name change script, original code provided by **CodeRed#9790** in the qbcore discord. I only put it into it's own package.
 
 * Add to `qb-core\shared\items.lua`
